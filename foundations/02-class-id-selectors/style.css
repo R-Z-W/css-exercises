@@ -1,0 +1,19 @@
+#Two{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#Three{
+    font-size: 24px;
+}
+
+#Four{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Odd{
+    background-color: hsl(350, 100%, 88%);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
