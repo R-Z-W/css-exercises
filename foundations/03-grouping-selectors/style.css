@@ -1,0 +1,15 @@
+.B1,
+.B2 {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+  border-style: outset;
+}
+
+.B1{
+    background-color: black;
+    color: white;
+}
+
+.B2{
+    background-color: yellow;
+}
